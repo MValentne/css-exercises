@@ -1,0 +1,14 @@
+.monochromatic{
+    background-color: rgb(7, 6, 6);
+    color: rgb(241, 222, 222);
+}
+
+.banana{
+    background-color: rgba(238, 238, 55, 0.88);
+}
+
+.banana
+.monochromatic{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
